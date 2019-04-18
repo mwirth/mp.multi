@@ -1,4 +1,4 @@
-package org.wimi.examples.mp.impl;
+package org.wimi.example.mp.impl;
 
 import javax.enterprise.context.ApplicationScoped;
 

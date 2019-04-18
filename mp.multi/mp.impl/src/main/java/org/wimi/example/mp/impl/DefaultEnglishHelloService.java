@@ -1,13 +1,11 @@
-package org.wimi.examples.mp.impl;
+package org.wimi.example.mp.impl;
 
 import javax.enterprise.context.ApplicationScoped;
 
 import org.wimi.examples.mp.interfaces.HelloService;
-import org.wimi.examples.mp.interfaces.SayHelloEnglish;
 
 @ApplicationScoped
-@SayHelloEnglish
-public class EnglishHelloService implements HelloService {
+public class DefaultEnglishHelloService implements HelloService {
 
 	@Override
 	public String sayHelloTo(String name) {

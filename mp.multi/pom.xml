@@ -17,6 +17,8 @@
 		<module>mp.services</module>
 		<module>mp.interfaces</module>
 		<module>mp.impl</module>
+		<module>mp.config</module>
+		<module>mp.config.impl</module>
 	</modules>
 
 	<dependencies>

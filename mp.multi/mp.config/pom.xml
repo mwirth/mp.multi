@@ -8,14 +8,16 @@
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 
-	<artifactId>mp.impl</artifactId>
+	<artifactId>mp.config</artifactId>
 
 	<dependencies>
+
 		<dependency>
 			<groupId>org.wimi.example</groupId>
 			<artifactId>mp.interfaces</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
+
 	</dependencies>
 
 </project>
